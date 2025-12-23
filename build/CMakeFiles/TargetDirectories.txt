@@ -1,0 +1,3 @@
+/Users/amanmalik/Downloads/c++/build/CMakeFiles/pdf_organizer.dir
+/Users/amanmalik/Downloads/c++/build/CMakeFiles/edit_cache.dir
+/Users/amanmalik/Downloads/c++/build/CMakeFiles/rebuild_cache.dir
